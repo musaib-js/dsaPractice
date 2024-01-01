@@ -81,6 +81,8 @@ const queries = [
   ["SET_OR_INC", "b", "1", "2"],
   ["GET", "a", "1"],
   ["TOP_N_KEYS", "3"],
+  ["SET_OR_INC", "e", "1", "2"],
+  ["TOP_N_KEYS", "4"],
   
 ];
 
